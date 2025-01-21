@@ -1,0 +1,4 @@
+id,name,domain,industry,size,country,created_date,is_customer,annual_revenue
+COM12312,Company 1,company1.biz,Technology,201-500,US,2024-06-15T08:45:00,True,1500000
+COM12112,Company 2,company2.net,Healthcare,201-500,UK,2023-09-10T12:30:00,False,3000000
+COM99999,Company 3,company3.com,Finance,201-500,US,9999978999999,False,1000000

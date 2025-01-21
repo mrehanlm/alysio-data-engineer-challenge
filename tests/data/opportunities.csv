@@ -1,0 +1,4 @@
+id,name,contact_id,company_id,amount,stage,product,probability,created_date,close_date,is_closed,forecast_category
+OP1,Company 1 - Basic Deal,1,1,25000,Prospecting,Basic,20,2024-06-15T08:45:00,2024-09-15T08:45:00,False,Pipeline
+OP2,Company 2 - Pro Deal,2,2,45000,Negotiation,Pro,50,2023-09-10T12:30:00,2024-02-10T12:30:00,False,Best Case
+OP11111,Company 1 - Basic Deal,1,1,25000,Prospecting,Basic,-20,2024-06-15T08:45:00,2024-09-15T08:45:00,False,Pipeline
